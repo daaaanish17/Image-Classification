@@ -12,7 +12,7 @@ This is a image classification web application, using Streamlit. This app will c
 * Test Results
 
 ## Model
-I have chosen the pretrained MobileNetV2 model to perform classification.
+I have chosen the pretrained "MobileNetV2" model to perform classification.
 
 ## Modules Required
 * streamlit==1.14.0
